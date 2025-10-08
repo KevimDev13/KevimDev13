@@ -29,9 +29,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/KevimDev13/KevimDev13/output/snake.svg" alt="Snake animation" />
-
-###
