@@ -1,4 +1,4 @@
-<h2 align="left">🖥️ Kevim Henrique<br><br>Me chamo Kevim Henrique de Almeida Mariano, tenho 20 anos e sou Resende no Rio de Janeiro.Formado no ensino médio e curso de Informática pelo Senac. Atualmente estudante do Engenharia de Software pela Estácio cursando o segundo período.</h2>
+<h2 align="left">🖥️ Kevim Henrique<br><br>Me chamo Kevim Henrique de Almeida Mariano, tenho 20 anos e sou Resende no Rio de Janeiro.Formado no ensino médio e curso de Informática pelo Senac. Atualmente estudante do Engenharia de Software pela Estácio cursando o quarto período.</h2>
 
 ###
 
