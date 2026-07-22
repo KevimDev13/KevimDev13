@@ -1,6 +1,7 @@
-<h2 align="left">🖥️ Kevim Henrique<br><br>Me chamo Kevim Henrique de Almeida Mariano, tenho 21 anos e sou Resende no Rio de Janeiro.Formado no ensino médio e curso de Informática pelo Senac. Atualmente estudante do Engenharia de Software pela Estácio cursando o quarto período.</h2>
+<h2 align="left">🖥️ Kevim Henrique<br><br>Atualmente, faço parte do time de T.I. da JSL como Aprendiz, vivenciando de perto a rotina, os desafios e a infraestrutura tecnológica de uma grande corporação.
+Diariamente, invisto meu tempo livre na transição para o desenvolvimento de software. Tenho mergulhado a fundo em Java com Spring boot e Bancos de Dados, unindo uma mentalidade altamente analítica à capacitação técnica necessária para construir aplicações robustas (ponta a ponta).</h2>
 
-**'DESENVOLVERDOR JAVA'**
+**`Desenvolvedora Java`**
 
 ###
 
@@ -9,9 +10,9 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" height="30" alt="archlinux logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="30" alt="css3 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
