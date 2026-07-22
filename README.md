@@ -1,7 +1,9 @@
-<h2 align="left">🖥️ Kevim Henrique<br><br>Atualmente, faço parte do time de T.I. da JSL como Aprendiz, vivenciando de perto a rotina, os desafios e a infraestrutura tecnológica de uma grande corporação.
-Diariamente, invisto meu tempo livre na transição para o desenvolvimento de software. Tenho mergulhado a fundo em Java com Spring boot e Bancos de Dados, unindo uma mentalidade altamente analítica à capacitação técnica necessária para construir aplicações robustas (ponta a ponta).</h2>
-
+# ​​👨🏻‍💻​​ Kevim Henrique
+  
 **`Desenvolvedora Java`**
+  
+Me chamo Kevim Henrique, tenho 21 anos, atualmente faço parte do time de T.I. da JSL como Aprendiz, vivenciando de perto a rotina, os desafios e a infraestrutura tecnológica de uma grande corporação.
+Diariamente, invisto meu tempo livre na transição para o desenvolvimento de software. Tenho mergulhado a fundo em Java com Spring boot e Bancos de Dados, unindo uma mentalidade altamente analítica à capacitação técnica necessária para construir aplicações robustas (ponta a ponta).</h2>
 
 ###
 
